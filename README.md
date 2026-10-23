@@ -15,10 +15,10 @@ questions with one open dataset, and is honest about what a survey can and canno
 ## The story in the app
 
 1. **Why this matters subject matters -** with a short hook, the three questions we ask, and how to read the figures.
-2. **Overview -** Three key figures that follow the filters and a chart of social network use over time.
-3. **Deep dives -** Four different charts: does age make a difference, does where you live matter, do heavy users feel they spend too much time on screens, and what do people come across without looking for it.
-4. **How far can we trust these numbers? -** Data checks, missing answers and what to keep in mind.
-5. **Key insights and next steps -** What we found, what it means for educators, parents and decision-makers, and its limits.
+2. **Overview -** three key figures that follow the filters and a chart of social network use over time.
+3. **Deep dives -** four different charts: does age make a difference, does where you live matter, do heavy users feel they spend too much time on screens, and what do people come across without looking for it.
+4. **How far can we trust these numbers? -** data checks, missing answers and what to keep in mind.
+5. **Key insights and next steps -** what we found, what it means for educators, parents and decision-makers, and its limits.
 
 The filters in the sidebar (age focus, sex, region, survey years and the measure shown) change the charts.
 Every chart has a sentence that gives its message, hover tooltips, labelled axes and a short text description.
