@@ -1,0 +1,19 @@
+[theme.light]
+primaryColor = "#0b6180"
+backgroundColor = "#eefcfb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0e2a35"
+baseRadius = "0.5rem"
+
+[theme.light.sidebar]
+backgroundColor = "#1f7a8c"
+secondaryBackgroundColor = "#2d92a6"
+textColor = "#ffffff"
+primaryColor = "#ffffff"
+
+[theme.dark]
+primaryColor = "#67dcf2"
+backgroundColor = "#0e2a35"
+secondaryBackgroundColor = "#173a49"
+textColor = "#eef6f8"
+baseRadius = "0.5rem"
