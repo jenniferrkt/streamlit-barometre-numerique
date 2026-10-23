@@ -1,0 +1,70 @@
+{
+  "source": {
+    "title": "Baromètre du Numérique",
+    "page": "https://www.data.gouv.fr/datasets/barometre-du-numerique",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d31629c2-3840-4aad-8380-a702af9b1d1f",
+    "licence": "Open Database License (ODbL)",
+    "file": "barometre-du-numerique-2007-2025.csv",
+    "size_bytes": 268332263
+  },
+  "raw": {
+    "rows": 49690,
+    "columns": 1195,
+    "columns_read": 22,
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "years_without_wave": [
+      2021
+    ],
+    "duplicate_ident": 0,
+    "weight_nulls": 0
+  },
+  "extract": {
+    "rows": 12495,
+    "columns": 21,
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "first_year": 2023,
+    "file": "barometre_extract_2023_2025.parquet"
+  },
+  "adoption": {
+    "rows": 28144,
+    "years": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022
+    ],
+    "file": "social_participation_2009_2022.parquet"
+  }
+}
