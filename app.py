@@ -30,7 +30,9 @@ st.markdown(
     h2 { border-top: 1px solid rgba(128,128,128,0.35); padding-top: 1.2rem; margin-top: 2.5rem; font-weight: 600; }
     /* key figures: big serif number with a small capital label */
     [data-testid="stMetric"] { padding: 0.2rem 0.3rem; }
-    [data-testid="stMetricLabel"] p { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.75rem; }
+    [data-testid="stMetricLabel"] { min-height: 2.4rem; align-items: flex-start; }
+    [data-testid="stMetricLabel"] * { white-space: normal !important; overflow: visible !important; text-overflow: clip !important; }
+    [data-testid="stMetricLabel"] p { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.75rem; line-height: 1.3; }
     [data-testid="stMetricValue"] { font-size: 2.8rem; font-weight: 600; }
     /* filters: small capital group titles, and the labels that summarise the selection */
     .filter-group { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; opacity: 0.7; margin: 1rem 0 0.2rem; }
