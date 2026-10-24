@@ -33,7 +33,8 @@ st.markdown(
     [data-testid="stMetricLabel"] { min-height: 2.4rem; align-items: flex-start; }
     [data-testid="stMetricLabel"] * { white-space: normal !important; overflow: visible !important; text-overflow: clip !important; }
     [data-testid="stMetricLabel"] p { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.75rem; line-height: 1.3; }
-    [data-testid="stMetricValue"] { font-size: 2.8rem; font-weight: 600; }
+    [data-testid="stSidebar"] [data-testid="stMetricValue"] { font-size: 2rem; }
+    [data-testid="stMetricValue"] * { overflow: visible !important; text-overflow: clip !important; }  
     /* filters: small capital group titles, and the labels that summarise the selection */
     .filter-group { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; opacity: 0.7; margin: 1rem 0 0.2rem; }
     .chip { display: inline-block; border: 1px solid rgba(128,128,128,0.5); border-radius: 999px;
