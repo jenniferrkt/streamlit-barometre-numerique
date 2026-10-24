@@ -9,9 +9,9 @@ questions with one open dataset, and is honest about what a survey can and canno
 
 - **Live app:** https://app-barometre-numerique-cejzdwuzgvjkoumtq5mydi.streamlit.app/
 - **Code:** jenniferrkt
-- **Storyboard:** [link: to fill in]
-- **Demo video (2-4 min):** [link: to fill in]
-
+- **Storyboard:** https://drive.google.com/file/d/1staZZKj66OTBPh-VzdpjKCRGXeYwHGwO/view?usp=sharing
+- **Demo video (2-4 min):** https://drive.google.com/file/d/11rdivpBpafnusrSYLJv0SlFG9tEpamOC/view?usp=sharing
+  
 ## The story in the app
 
 1. **Why this matters subject matters -** with a short hook, the three questions we ask, and how to read the figures.
