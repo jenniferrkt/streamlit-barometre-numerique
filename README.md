@@ -1,7 +1,7 @@
 # Are we too online?
 
 **Social media and digital wellbeing in France, 2023-2025.**
-An ndividual Streamlit data-storytelling project, EFREI Paris .
+An individual Streamlit data-storytelling project, EFREI Paris .
 
 How often do people in France check a social network? Does heavy use feel like too much time on screens?
 And what do young people come across online that they did not look for? This dashboard follows these three
