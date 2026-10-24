@@ -8,13 +8,13 @@ And what do young people come across online that they did not look for? This das
 questions with one open dataset, and is honest about what a survey can and cannot say.
 
 - **Live app:** https://app-barometre-numerique-cejzdwuzgvjkoumtq5mydi.streamlit.app/
-- **Code:** jenniferrkt
+- **Code:** https://github.com/jenniferrkt/streamlit-barometre-numerique
 - **Storyboard:** https://drive.google.com/file/d/1staZZKj66OTBPh-VzdpjKCRGXeYwHGwO/view?usp=sharing
 - **Demo video (2-4 min):** https://drive.google.com/file/d/11rdivpBpafnusrSYLJv0SlFG9tEpamOC/view?usp=sharing
   
 ## The story in the app
 
-1. **Why this matters subject matters -** with a short hook, the three questions we ask, and how to read the figures.
+1. **An important subject -** with a short hook, the three questions we ask, and how to read the figures.
 2. **Overview -** three key figures that follow the filters and a chart of social network use over time.
 3. **Deep dives -** four different charts: does age make a difference, does where you live matter, do heavy users feel they spend too much time on screens, and what do people come across without looking for it.
 4. **How far can we trust these numbers? -** data checks, missing answers and what to keep in mind.
